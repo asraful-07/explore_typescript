@@ -68,9 +68,9 @@ const user4 = new ParsonFour("WEQ", 27, "ESP", true);
 
 user4.ab(100, 180);
 
-// user3.PrivateT = 1234;
-// console.log(user3);
-// console.log(user3.Access);
-// user2.great("ZWQ");
-// user1.great("USA");
-// console.log(user1);
+//* user3.PrivateT = 1234;
+//* console.log(user3);
+//* console.log(user3.Access);
+//* user2.great("ZWQ");
+//* user1.great("USA");
+//* console.log(user1);
